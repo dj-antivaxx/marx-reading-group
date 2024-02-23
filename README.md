@@ -134,3 +134,52 @@ Hoarding money becomes the money of a private person instead of social power (p.
 The buyer becomes the debtor - they both emerge from commodity circulations; buyer and seller become a power relation - creditor and debtor. 
 
 The concept of a commodity brought by Marx elegantly emerges all these ideas starting with USE-VALUES and wrapping up with debters and creditors.
+
+# FEBRUARY 23 - CHAPTER 4 - THE GENERAL FORMULA FOR CAPITAL
+
+Given that C-M-C is the direct form of the circulation of commodities (selling to buy), we understand its purpose as the generation of USE-VALUE (i.e. satisfaction of needs), and exchange happens between commodities of equal VALUES and qualitatively different USE-VALUES (i.e. exchange of corn for clothes).  
+
+However, in the inverted form of this formula, M-C-M (buying to sell), money is exchanged for money, and given that there are no qualitatively different USE-VALUES in money, the complete formula would be M-C-M', where M and M' are quantitatively different amounts of money, which generates EXCHANGE-VALUE, or, more precisely, considering that M'= M + M_delta, the formula creates SURPLUS-VALUE, an increment over the original value. 
+
+SURPLUS-VALUE is VALORIZED (SELF-VALORIZED) VALUE, meaning that value itself becomes the subject (p.252). "Value becomes value in the process, money in the process, and, as such, capital" (p.256). "M-C-M' is the general formula for capital, in the form in which it appears directly in the sphere of circulation" (p.257).
+
+# FEBRUARY 23 - CHAPTER 5 - CONTRADICTIONS IN THE GENERAL FORMULA
+
+This chapter analyzes circulation from all angles and perspectives, arguing that the circulation CAN NOT create SURPLUS-VALUE, so the commerce based on the circulation of commodities cannot create growth (see Adam Smith) simply because the exchange on equivalences does never add surplus (p.266). When commodities are not bought at their value or not sold at their value, it is logically supposed to be always someone's loss and a zero-sum game.
+
+However, if surplus does not come from circulation, then where does it come from? The answer is LABOUR POWER (p.266). The SURPLUS-VALUE, or M' in the M-C-M' formula, is, therefore, the labor power - so labor power originates from commodity, and not from money.
+
+# FEBRUARY 23 - CHAPTER 6 - THE SALE AND PURCHASE OF LABOUR-POWER
+
+LABOUR-POWER is the aggregate of a human's physical and mental capabilities needed to produce USE-VALUE (p.270). For most historical development, labor power was not available on the market as a commodity, and human expenditure was never meant to be sold as a commodity on the market. And which is also not meant to be generalized - but if it is not generalized, then it cannot be submitted to a commodity market. But, by entering the commodity market with labor power, you now have to buy and sell things (i.e. your labor) on the market to survive; you don't access the necessities (food and housing) if you don't enter the market transactions.  
+
+If LABOUR-POWER is a commodity, then it should have value, use-value, and exchange-value just as other commodities:
+- USE-VALUE: it is a property of creating VALUE (p.271); moreover, LABOUR-POWER needs to create not only value but more value than its costs, so its USE-VALUE is superior to its EXCHANGE-VALUE. In other words, this commodity, being put on the market, generates more value the more you consume it!
+- VALUE: capitalism cannot produce labor-power, so it has to find it on the market, which means there is someone that has to REPRODUCE. Therefore, the value of labor power becomes the sum of goods needed for the reproduction of labor power (daily human necessities). So, the VALUE of labor-power is the social time needed to produce necessities (p.275-276 and social reproduction theories).
+- EXCHANGE-VALUE is the WAGE - the actual price you sell your labor power for (note that price here isn't equal to value as well - see Chapter 2). Marx makes a separation between labor and wage - you advance the value of your work, and then you get the wage for it after the work is done (p.278). 
+
+[p.279-p.280 are one of the most important pages in the book]
+
+# FEBRUARY 23 - CHAPTER 7 - THE LABOUR PROCESS AND THE VALORIZATION PROCESS
+
+We are going from philosophical arguments to a more specific historical context (p.291), considering the concept of labor as metabolism between human and nature, as their intrinsic relation through the prism of labor (p.283, ecological Marxism). Ontologically, labor is the first reality and there is no human (or no world) without labor. Human labor - in terms of differentiating between humans and animals - is specified by purposeful will, by conscious will which precedes the labor (unlike bees or ants, for example).
+
+Therefore, we define the LABOR PROCESS through:
+- purposeful activity
+- the object on which activity is performed, or RAW MATERIAL - the object of labor which has been achieved through previous labor (i.e. cotton) 
+- instruments of labor - thing that mediates purposeful activity and the object of labor (i.e. hammer) (p.284).
+
+From the perspective of instruments, Marx differentiates between dead labor and living labor. DEAD LABOR is the labor that has been congealed in the object, so the temporality over the object is over. To extract the value of dead labor (the means of production), you need actual living labor. For example, machines (dead labor) do not create new value by themselves - only LIVING LABOR adds value to it.
+
+The capital reshapes the labor process, takes over it, and turns it into VALORIZATION to create SURPLUS-VALUE:
+- capital decides what and how it should be produced - you do what you are told at work;
+- capital gets to keep the product of labor, so you do not own what you create and you lose the purpose of your activity;
+- capital owns the value, so the labor process becomes the process between humans and commodities that the capitalist owns (on top of giving up surplus value, you also give up the value of your labor).
+
+In a non-capitalist setting, the original aim of the labor process is to create value and use value. When capitalist buys the labor process, they aim to produce not only a use-value but a commodity; not only value but surplus-value (p.293). In other terms, the use-value produced by capitalists is SYSTEMATICALLY GREATER than the labor power. Capitalist gives the worker part of his labor in the form of a wage, but most of that labor goes to the pocket of capitalists. Once again, labor-power, being commodified, creates more power when you consume it. Capitalist wants the production of absolute surplus value through the mechanism of systematical exploitation. When the labor process is owned by the capitalist, there is always disproportion, it's never equal.
+
+# FEBRUARY 23 - CHAPTER 8 - CONSTANT CAPITAL AND VARIABLE CAPITAL
+
+VARIABLE CAPITAL is the capital that adds new value. The key idea of the chapter is the idea of transfer of value (i.e. what happens to value in the production process) - while this value gets transferred from means of production to new commodities, the value of constant capital gets transferred to new products.
+
+Dead labor is necessitated by living labor, it is preserved and transferred into commodities through living labor. Abstract labor adds new value, but concrete labor preserves and transfers. This value is material (but objective), but the means of dead labor (machine production) NEVER creates value, as the value is always transferred by LIVING LABOR. Labor not only produces value, but it preserves the value stored by the capitalist. IF WE STOP WORKING then CAPITALISTS LOSE THEIR POWER.
