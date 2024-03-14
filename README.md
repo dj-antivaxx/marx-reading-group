@@ -183,3 +183,47 @@ In a non-capitalist setting, the original aim of the labor process is to create 
 VARIABLE CAPITAL is the capital that adds new value. The key idea of the chapter is the idea of transfer of value (i.e. what happens to value in the production process) - while this value gets transferred from means of production to new commodities, the value of constant capital gets transferred to new products.
 
 Dead labor is necessitated by living labor, it is preserved and transferred into commodities through living labor. Abstract labor adds new value, but concrete labor preserves and transfers. This value is material (but objective), but the means of dead labor (machine production) NEVER creates value, as the value is always transferred by LIVING LABOR. Labor not only produces value, but it preserves the value stored by the capitalist. IF WE STOP WORKING then CAPITALISTS LOSE THEIR POWER.
+
+# MARCH 8 - CHAPTER 10 - THE WORKING DAY
+
+The working day is a construct; the working day has no inherent limits (as they are elastic), but two forms of determinable limits can exist (p.341):
+
+1. Physical limits: how much labor the human body can perform.
+2. Moral limits: laws, norms, and regulations - the result of class struggle and the relation between classes.
+
+The length of a working day fluctuates between boundaries physical and social (p. 341); however, the length of the working day is defined by the capitalist (bearer of the capital) and the worker / the level of exchange (level of circulation of commodities - see Chapters 2-3). Both workers and capitalists have the same right to determine the length of the working day. So the working day is a temporal category - which itself is a space / locus for social struggle. While capitalism predates the working day, the laws and regulations try to define the social balance of power. 
+
+So there is a force between these two equal sides (p. 344). To Marx, the force is coercion through politics and influence through legislation. The class which will be able to influence the political process, will then get to represent its interests - unions represent workers, while political parties represent the interests of capital. Marx is skeptical about bourgeois law, but he doesn't discard the legitimacy of a political process. Workers they matter. Classes fight for definitions of laws and norms.
+
+Voracious appetite! Forms of exploitation existed in different modes of production (slavery, feudalism - as Marx brings examples in Section 2 of the chapter), but in capitalism it becomes more obscure, and less clear, hiding itself behind WAGES. All these forms of appropriation at least let you know where and when you have been exploited (i.e. corvee), so you know where is the SURPLUS. In capitalism, though, exploitation is intricate in the working day - so it mixes surplus labor and necessary labor in the same workday.
+
+There are similarities between slave labor and wage labor, though:
+
+1. If the number of workers (population of workers) is constant, then the capitalist is interested in keeping them healthy.
+2. Otherwise, it becomes important for the capitalist to get to the markets of workers. Resembling slavery at the slave trade times, capitalism is craving legislation that will allow the migration of workers so the market is properly supplied (p.380). You can work your workers to death if the system provides more workers.
+
+Time as well as a social phenomenon and a space for power - __temporal struggle__.  Clocks create a form of time that is abstract, and homogeneous - so you need equal time units to make more work at the same time, to be more productive, and, therefore, the appetite for surplus labor in fact can be seen as the appetite for time (p.352); *exploitation takes the form of time*. 
+
+Furthest sections of the chapter cover other aspects of the working day; Section 3 raises questions about health and safety issues as well as the consequences of repetitive tasks on the human body, while Section 4 elaborates on shift system and night shifts - night work exists to maximize surplus and minimize idle time as much as possible (p. 367). Time imperative is a strong concept for Marx in terms of transferring value to machines, meaning that the capitalist needs to get the value out of machines (and means of production) constantly.
+
+p. 375 has a very famous quote all the way down to the first lines of p. 377
+
+p. 382 (see also: Michel Foucault) - surveillance, discipline, organizing human behavior.
+
+p. 391 brings up a discussion on capitalist anthropology in terms of negotiation and definition of the childhood's end (i.e. time when the capitalist can finally start employing man's power), and here we go again to re-defining temporal categories (workday, time, childhood, maturity) as social constructs.
+
+# MARCH 8 - CHAPTER 11 - THE RATE AND MASS OF SURPLUS-VALUE
+
+There are three laws of absolute surplus value:
+
+1. The mass of surplus value produced is equal to the amount of variable capital advanced multiplied by the rate of surplus value (p. 418). 
+2. The absolute limit of the average working day sets an absolute limit to the compensation for a reduction of variable capital by a higher rate of surplus value, or for the decrease of the number of workers exploited by a higher degree of exploitation of labor-power (p. 419).  
+3. With a given rate of surplus value, and given value of labor-power, therefore, the masses of surplus value produced vary directly as the amounts of the variable capital advanced (p. 420).
+
+The masses of value and surplus-value produced by different capitals <...> very directly as the amounts of the variable components of these capitals (p. 421). Hence, the mass of value varies in functions of proportion of labor power (because it is the labor that produces it). There is no point in exploitation 1 person to death if you can exploit 100 people. 
+
+CAPITALIST TAKEOVER OF LABOR PROCESS is a very important point in the end of the chapter, formulated in 2 steps:
+
+1. Formal subsension of labor under capital (meaning that cotton plantations are linked to the north Atlantic market and producing raw materials for capitalists and fabrics in England; capitalists formerly subsume the labor, but production of cotton is not the capitalist).
+
+2. As the valorization of labor happens, then there is an INVERSION between dead labor and living labor; in a non-capitalist society labor process the living labor uses the dead labor (we use tools to make things), but in capitalism, dead labor becomes the capital.
