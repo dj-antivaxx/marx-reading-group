@@ -227,3 +227,29 @@ CAPITALIST TAKEOVER OF LABOR PROCESS is a very important point in the end of the
 1. Formal subsension of labor under capital (meaning that cotton plantations are linked to the north Atlantic market and producing raw materials for capitalists and fabrics in England; capitalists formerly subsume the labor, but production of cotton is not the capitalist).
 
 2. As the valorization of labor happens, then there is an INVERSION between dead labor and living labor; in a non-capitalist society labor process the living labor uses the dead labor (we use tools to make things), but in capitalism, dead labor becomes the capital.
+ 
+# MARCH 15 - CHAPTER 12 - THE CONCEPT OF RELATIVE SURPLUS VALUE
+
+So, if the capitalist wants to maximize the surplus value, then they can maximize the length of the work day. That would be called *absolute surplus value*. However, from previous chapters, we know that the work day besides the surplus-value labor (the labor that produces surplus value) also contains necessary labor. And if the length of the working day is limited, then the capitalist can make socially necessary labor shorter. That's how the *relative surplus value* is produced (p. 432).
+
+Necessary labor here essentially refers to the basket of goods (i.e. necessities needed to support the worker's life); reducing the amount of necessary labor therefore refers to decreasing the value of the necessary goods. Cheaper clothes, cheaper food, cheaper housing - reducing costs for producing these goods can be achieved through increased productivity of labor, or through the MACHINES (which are more productive and so lower the total value) - and these goods transfer their value to another sector to reduce the costs. Things are cheaper, the worker needs less time to do less work to cover the necessary labor, and hence the worker can get faster to the surplus value labor, given the same working day. 
+
+So, keeping basic goods and necessities cheaper is advantageous both for workers and for THE CAPITAL. The state's regulations and authority mechanisms also take place - basic food items, for example, are usually not a subject of taxation; supply chains strive to import cheap foods/goods from abroad (Walmart, Costco, Amazon), from places in the world where labor is cheaper.
+
+Marx, however, distinguishes between the concept of SOCIAL SURPLUS VALUE and INDIVIDUAL SURPLUS VALUE. In the case of individual surplus value, capital pockets extra relative surplus value due to innovation (p.344-345); the incentive for innovation and scientific development becomes the function of the free market in capitalism (just like science funded by firms and by governments - the science which has the market outcome). With these mechanisms, there is no last stage of productivity - there is always endless growth, always the appetite to get more and produce more (p. 346-347). Capitalists always have to outcompete and overproduce. 
+
+# MARCH 15 - CHAPTER 13 - CO-OPERATION
+
+Under capitalism, the productive power of cooperation becomes a tool for a capitalist. Even though the capitalist pays each worker individually, cooperatively the workers produce more than they are paid for (through the power of cooperation);  let's say the capitalist pays each of 15 workers individually, but 15 the workers co-operating produce more surplus value than 15 workers would produce if they were to work individually.
+
+The product of collective labor appears as a product of the capital. The workers are isolated even though they work together (p. 448). The power of labor - even though the capital took over it...
+
+# MARCH 15 - CHAPTER 14 - THE DIVISION OF LABOR AND MANUFACTURE
+
+Division of labor and manufacturing for Marx is also a form of production of relative surplus value. The guiding thread is similar to what was brought up in the previous chapters - there are trends in the historical practice of the division of labor in society, but they are re-organized by capitalists to generate capital. Adam Smith (classical political economy) assumes the progressing concept of division of labor (from historic ways to manufacturing), but for Marx, these are two distinct forms: there is a natural division of labor in society, and there is also a division of labor in manufacturing.
+
+The traditional division of labor in society was based on individual artisans and the commodity exchange between them. Productization in the hands of the capitalist, though, creates a space to produce labor power and surplus value - by manufacturing, by reorganizing spacial and temporal coordinates of production. 
+
+Also, we want to distinguish between heterogeneous (different parts are produced and assembled as a hole - like the iPhone) and organic (the development of a single object passed through a chain of labor, one material goes through a series of assemblages) division of labor. While in both examples workers become in a way parts of PRODUCTIVE MECHANISM (one big operation), in the latter case (how it used to be) humans use tools to produce things, and in the former case, tools use humans to produce things. So, capitalism imposes the separation of tasks in more precise operations, so the workers specialize and the tools specialize to increase productivity. Just like in Darwin's natural selection theory, only the most adaptive ones survive. In manufacturing the provision of a given quantity of the product in a given period of labor is a technical law of the process of production itself (p. 465).
+
+Producers come under the capitalist power, so we observe the deskilling of labor (compare cashiers nowadays with artisans hundreds of years ago). If labor is less skilled, then it costs less to reproduce (p. 481-482). Anarchy and competition organize the market, but planning and despotism organize the workplace; the worker is reduced to a one-trick pony, and the human is reduced to an unautonomous, alienated, faceless subject of the capital.
